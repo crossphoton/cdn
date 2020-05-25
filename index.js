@@ -81,4 +81,4 @@ var testQuery = {
 
 // console.log(testres)
 
-export default NewsApi
+export default NewsAPI
