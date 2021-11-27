@@ -1,40 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"  xmlns:podcast="https://podcastindex.org/namespace/1.0"  xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<channel>
-		<atom:link href="https://http203.libsyn.com/rss" rel="self" type="application/rss+xml"/>
-		<title>HTTP 203</title>
-		<pubDate>Thu, 18 Nov 2021 18:03:27 +0000</pubDate>
-		<lastBuildDate>Thu, 25 Nov 2021 18:11:01 +0000</lastBuildDate>
-		<generator>Libsyn WebEngine 2.0</generator>
-		<link>https://developers.google.com/web/shows/http203/podcast/</link>
+		<atom:link href="https://crossphoton.tech/cdn/rss.xml" rel="self" type="application/rss+xml"/>
+		<title>The Indian Middle Class</title>
+<!-- 		<pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
+		<lastBuildDate>Thu, 25 Nov 2021 18:11:01 +0000</lastBuildDate> -->
+		<generator>crossphoton's keyboard</generator>
+		<link>https://crossphoton.tech/podcast/the-indian-middle-class/</link>
 		<language>en</language>
-		<copyright><![CDATA[2021 © Google Chrome Developers]]></copyright>
-		<docs>https://developers.google.com/web/shows/http203/podcast/</docs>
+		<language>hi</language>
+		<copyright><![CDATA[2021 © crossphoton]]></copyright>
 		<managingEditor>crossphoton@gmail.com (crossphoton@gmail.com)</managingEditor>
-		<itunes:summary><![CDATA[Surma and Jake talk about whatever's going on in the world of web development.]]></itunes:summary>
+		<itunes:summary><![CDATA[Aditya talks about how the majority of the India lives and feels.]]></itunes:summary>
 		<image>
-			<url>https://ssl-static.libsyn.com/p/assets/4/0/a/0/40a057340c51398b/HTTP_Podcast_Episodes_thumb_v2_1.png</url>
-			<title>HTTP 203</title>
-			<link><![CDATA[https://developers.google.com/web/shows/http203/podcast/]]></link>
+			<url>https://crossphoton.tech/img/podcast/timc.png</url>
+			<title>The Indian Middle Class</title>
+			<link><![CDATA[https://crossphoton.tech/podcast/the-indian-middle-class/]]></link>
 		</image>
-		<itunes:author>Surma &amp; Jake</itunes:author>
-		<itunes:category text="Technology"/>
-		<itunes:image href="https://ssl-static.libsyn.com/p/assets/4/0/a/0/40a057340c51398b/HTTP_Podcast_Episodes_thumb_v2_1.png" />
+		<itunes:author>Aditya Agrawal</itunes:author>
+		<itunes:category text="Life"/>
+		<itunes:image href="https://crossphoton.tech/img/podcast/timc.png" />
 		<itunes:explicit>clean</itunes:explicit>
 		<itunes:owner>
-			<itunes:name><![CDATA[Google]]></itunes:name>
+			<itunes:name><![CDATA[crossphoton]]></itunes:name>
 			<itunes:email>crossphoton@gmail.com</itunes:email>
 		</itunes:owner>
-		<description><![CDATA[Surma and Jake talk about whatever's going on in the world of web development.]]></description>
-		<itunes:subtitle><![CDATA[Where Surma and Jake occasionally talk web.]]></itunes:subtitle>
+		<description><![CDATA[Aditya talks about how the majority of the India lives and feels.]]></description>
+		<itunes:subtitle><![CDATA[Aditya talk about the Indian Middle Class.]]></itunes:subtitle>
 		<itunes:type>episodic</itunes:type>
-		
 
 
-
-		<item>
-			<title>Deno, dithering, and bathrooms</title>
-			<itunes:title>Deno, dithering, and bathrooms</itunes:title>
+<!-- 		<item>
+			<title>Title goes here</title>
+			<itunes:title>Title goes here</itunes:title>
 			<pubDate>Thu, 18 Nov 2021 18:03:27 +0000</pubDate>
 			<guid isPermaLink="false"><![CDATA[87792528-b61d-4db1-8093-0554973ac594]]></guid>
 			<link><![CDATA[https://traffic.libsyn.com/secure/http203/podcast-nov.mp3]]></link>
@@ -52,7 +50,7 @@ Catch videos from the HTTP 203 series → http://goo.gle/HTTP203
 
 Subscribe to Google Chrome Developers → https://goo.gle/ChromeDevs </itunes:summary>
 			<itunes:episodeType>full</itunes:episodeType>
-			<itunes:author>Google</itunes:author>
+			<itunes:author>Google</itunes:author> -->
 		</item>	
 	</channel>
 </rss>
