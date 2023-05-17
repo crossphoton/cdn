@@ -1,0 +1,11 @@
+===================================================================================================================
+Packages with version
+===================================================================================================================
+
+freeradius-common/jammy,now 3.2.1-1 all [installed,upgradable to: 3.2.2-1]
+freeradius-config/jammy,now 3.2.1-1 amd64 [installed,upgradable to: 3.2.2-1]
+freeradius-ldap/jammy,now 3.2.1-1 amd64 [installed,upgradable to: 3.2.2-1]
+freeradius-mysql/jammy,now 3.2.1-1 amd64 [installed,upgradable to: 3.2.2-1]
+freeradius-utils/jammy,now 3.2.1-1 amd64 [installed,upgradable to: 3.2.2-1]
+freeradius/jammy,now 3.2.1-1 amd64 [installed,upgradable to: 3.2.2-1]
+libfreeradius3/jammy,now 3.2.1-1 amd64 [installed,upgradable to: 3.2.2-1]
